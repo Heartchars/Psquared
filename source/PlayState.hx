@@ -1245,11 +1245,14 @@ class PlayState extends MusicBeatState
 	}
 
 	public function reloadHealthBarColors() {
-		healthBar.createFilledBar(FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]),
-			FlxColor.fromRGB(boyfriend.healthColorArray[0], boyfriend.healthColorArray[1], boyfriend.healthColorArray[2]));
-			
-		healthBar.updateBar();
-	}
+
+healthBar.createFilledBar(FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]),
+
+FlxColor.fromRGB(boyfriend.healthColorArray[0], boyfriend.healthColorArray[1], boyfriend.healthColorArray[2]));
+
+healthBar.updateBar(); timeBar.createFilledBar(FlxColor.fromRGB(0,0,0), FlxColor.fromRGB(0,0,0));
+}
+
 
 	public function addCharacterToList(newCharacter:String, type:Int) {
 		switch(type) {
