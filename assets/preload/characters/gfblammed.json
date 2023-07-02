@@ -138,8 +138,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				0,
-				-5
+				175,
+				-8
 			],
 			"fps": 24,
 			"anim": "hairBlow",
@@ -154,7 +154,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				84,
 				-9
 			],
 			"fps": 24,
@@ -187,11 +187,11 @@
 			"name": "GF FEAR"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"no_antialiasing": true,
+	"image": "characters/BLAMMED_GF",
 	"position": [
-		-20,
-		-20
+		100,
+		160
 	],
 	"healthicon": "gf",
 	"flip_x": false,

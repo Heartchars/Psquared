@@ -2,8 +2,19 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				-9
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-58,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-33,
-				-56
+				-84,
+				-50
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-50,
-				30
+				-115,
+				33
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-60,
-				-7
+				-125,
+				-5
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				15,
-				18
+				-65,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-25,
-				-20
+				-85,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				-46,
+				-106,
 				27
 			],
 			"loop": false,
@@ -79,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-57,
-				19
+				-115,
+				21
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,7 +101,7 @@
 		},
 		{
 			"offsets": [
-				-9,
+				-73,
 				5
 			],
 			"loop": false,
@@ -123,8 +134,8 @@
 		},
 		{
 			"offsets": [
-				27,
-				2
+				37,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -134,8 +145,8 @@
 		},
 		{
 			"offsets": [
-				27,
-				2
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -145,8 +156,8 @@
 		},
 		{
 			"offsets": [
-				27,
-				55
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -186,54 +197,10 @@
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				97,
-				-10
-			],
-			"anim": "trans-former",
-			"fps": 24,
-			"name": "BF TRANSFORMATION",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-4,
-				9
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack1",
-			"indices": [],
-			"name": "BF Ice Sing Right"
-		},
-		{
-			"offsets": [
-				102,
-				220
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "powerpuff",
-			"indices": [],
-			"name": "BF Flame Powerup"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-7,
-				-3
-			],
-			"anim": "idle",
-			"fps": 23,
-			"name": "BF idle dance",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BLAMMED_BOYFRIEND",
 	"position": [
 		-20,
 		350

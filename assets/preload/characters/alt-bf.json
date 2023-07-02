@@ -2,52 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				-9
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-33,
-				-56
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-50,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-60,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				15,
-				18
+				5,
+				9
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,7 +14,7 @@
 		{
 			"offsets": [
 				-25,
-				-20
+				-29
 			],
 			"loop": false,
 			"fps": 24,
@@ -69,7 +25,7 @@
 		{
 			"offsets": [
 				-46,
-				27
+				17
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-57,
-				19
+				-46,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				27,
-				2
+				37,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -134,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				27,
-				2
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -145,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				27,
-				55
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -200,40 +156,62 @@
 		},
 		{
 			"offsets": [
-				-4,
-				9
+				-2,
+				8
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack1",
 			"indices": [],
-			"name": "BF Ice Sing Right"
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ALT BF LEFT"
 		},
 		{
 			"offsets": [
-				102,
-				220
+				-2,
+				-38
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "powerpuff",
 			"indices": [],
-			"name": "BF Flame Powerup"
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ALT BF DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-7,
-				-3
+				-11,
+				68
 			],
-			"anim": "idle",
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ALT BF UP"
+		},
+		{
+			"offsets": [
+				-11,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ALT BF RIGHT"
+		},
+		{
+			"offsets": [
+				30,
+				-6
+			],
+			"indices": [],
 			"fps": 23,
-			"name": "BF idle dance",
-			"indices": []
+			"anim": "idle",
+			"loop": true,
+			"name": "ALT BF IDLE"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/alt_BOYFRIEND",
 	"position": [
 		-20,
 		350
